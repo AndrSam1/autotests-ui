@@ -1,1 +1,19 @@
+# pycharm
 .idea
+
+# python
+.venv
+__pycache__
+
+# allure
+allure-results
+allure-report
+
+# testing artifacts
+*.html
+*.json
+videos
+tracing
+
+# mac os
+.ds_store
