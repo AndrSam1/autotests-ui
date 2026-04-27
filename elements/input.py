@@ -4,7 +4,6 @@ from playwright.sync_api import Locator, expect
 from ui_coverage_tool import ActionType
 
 from elements.base_element import BaseElement
-from tools.logger import get_logger
 
 from tools.logger import get_logger
 
